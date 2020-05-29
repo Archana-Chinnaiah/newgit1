@@ -1,1 +1,2 @@
-# newgit1
+Git learnings begin.
+This is my first commit.
